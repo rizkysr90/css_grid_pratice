@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  },
+  "name": "starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node-sass sass/main.scss css/style.css -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
